@@ -1,0 +1,19 @@
+.search-bar {
+    padding: 50px 0 100px 0;
+    display: flex;
+    justify-content: center;
+}
+
+#character-input {
+    font-size: 1.8rem;
+    width: 700px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid none;
+    color: #292e30;
+    outline: none;
+}
+
+#character-input:focus {
+    border: 2px solid #251616;
+}
